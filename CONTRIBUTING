@@ -1,15 +1,7 @@
-# Contribution Guidelines
-
-Thank you for considering contributing to our project! To ensure a smooth and collaborative experience for everyone, please follow these guidelines:
-
-1. **Fork the Repository:** Fork the repository to your own GitHub account before making any changes.
-2. **Branching:** Create a new branch for your changes from the `main` branch.
-3. **Commit Messages:** Write clear and descriptive commit messages that explain the purpose of your changes.
-4. **Code Style:** Follow the coding style and conventions used in the project. If unsure, refer to existing code for guidance.
-5. **Testing:** Ensure that your changes are thoroughly tested. If applicable, include unit tests or test cases to validate your changes.
-6. **Documentation:** Update documentation, such as README files or inline comments, to reflect your changes.
-7. **Pull Request:** Submit a pull request to the original repository and provide a detailed description of your changes.
-8. **Review:** Be open to feedback and constructive criticism. Respond promptly to any review comments or suggestions.
-9. **Be Patient:** Please be patient while waiting for your pull request to be reviewed. We will do our best to review it in a timely manner.
-
-By following these guidelines, you can help us maintain a high standard of quality and improve the project for everyone.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
